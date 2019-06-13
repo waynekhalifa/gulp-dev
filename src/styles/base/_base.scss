@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    color: $main-color;
+}
+
+h1 {
+    align-items: center;
+    display: flex;
+    font-size: 3.2rem;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
